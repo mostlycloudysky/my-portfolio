@@ -58,6 +58,7 @@ const config = {
     ({
       navbar: {
         title: 'S.K.Y',
+        hideOnScroll: true,
         logo: {
           alt: 'My Site Logo',
           src: 'img/braces.png',
