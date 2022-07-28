@@ -3,7 +3,7 @@ module.exports = {
   title: 'S.K.Y',
   tagline:
     'I am a Software Engineer and Cloud Engineer passionate about solving Meaningful Problems in development and automation.',
-  url: 'https://spectacular-longma-92f6b1.netlify.app',
+  url: 'https://sandeepyaramchitti.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
