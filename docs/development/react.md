@@ -4,4 +4,4 @@ sidebar_label: 'React Development'
 description: 'Awesome react'
 ---
 
-# This is first page
+# This is React Page

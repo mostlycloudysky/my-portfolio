@@ -3,7 +3,7 @@ module.exports = {
   title: 'S.K.Y',
   tagline:
     'I am a Software Engineer and Cloud Engineer passionate about solving Meaningful Problems in development and automation.',
-  url: 'https://sandeepyaramchitti.com',
+  url: 'https://spectacular-longma-92f6b1.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -24,19 +24,19 @@ module.exports = {
           items: [
             {
               label: 'Development',
-              to: '/docs/development/',
+              to: 'development/react',
             },
             {
               label: 'AWS',
-              to: '/docs/aws/',
+              to: 'aws/test',
             },
             {
               label: 'Web3.0',
-              to: '/docs/web3/',
+              to: 'web3/test',
             },
             {
               label: 'Test Automation',
-              to: '/docs/test-automation/',
+              to: 'test-automation/test',
             },
           ],
         },
@@ -46,15 +46,15 @@ module.exports = {
           items: [
             {
               label: 'Learn to Code',
-              to: '/docs/learn-to-code/',
+              to: 'learn-to-code/test',
             },
             {
               label: 'Technology',
-              to: '/docs/technology/',
+              to: 'technology/test',
             },
             {
               label: 'Reading List',
-              to: '/docs/reading-list/',
+              to: 'reading-list/test',
             },
           ],
         },
@@ -64,15 +64,11 @@ module.exports = {
           items: [
             {
               label: 'Travel',
-              to: '/docs/travel/',
+              to: 'travel/test',
             },
             {
               label: 'Music',
-              to: '/docs/music/',
-            },
-            {
-              label: 'Reading List',
-              to: '/docs/reading-list/',
+              to: 'music/test',
             },
           ],
         },
@@ -91,10 +87,10 @@ module.exports = {
     footer: {
       links: [
         {
-          title: 'Docs',
+          title: 'About Me',
           items: [
             {
-              label: 'Getting Started',
+              label: 'Introduction',
               to: '/',
             },
           ],
