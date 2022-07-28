@@ -47,11 +47,5 @@ module.exports = {
       label: 'Music',
       items: ['music/test'],
     },
-    // {
-    //   type: 'category',
-    //   label: 'API',
-    //   items: ['api/get-started'],
-    // },
-    'faq',
   ],
 };

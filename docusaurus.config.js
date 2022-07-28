@@ -10,9 +10,14 @@ module.exports = {
   favicon: 'img/braces.png',
   organizationName: 'SandeepKumarYaramchitti',
   projectName: 'SandeepKumarYaramchitti',
+
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+    },
     navbar: {
       title: 'S.K.Y',
+
       logo: {
         alt: 'sandeep-logo',
         src: 'img/braces.png',
