@@ -4,7 +4,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Development',
-      items: ['development/test'],
+      items: ['development/react', 'development/vue'],
     },
     {
       type: 'category',
@@ -14,7 +14,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Web 3.0',
-      items: ['web3.0/test'],
+      items: ['web3/test'],
     },
 
     {
@@ -26,6 +26,26 @@ module.exports = {
       type: 'category',
       label: 'Technology',
       items: ['technology/test'],
+    },
+    {
+      type: 'category',
+      label: 'Reading List',
+      items: ['reading-list/test'],
+    },
+    {
+      type: 'category',
+      label: 'Test Automation',
+      items: ['test-automation/test'],
+    },
+    {
+      type: 'category',
+      label: 'Travel',
+      items: ['travel/test'],
+    },
+    {
+      type: 'category',
+      label: 'Music',
+      items: ['music/test'],
     },
     // {
     //   type: 'category',
