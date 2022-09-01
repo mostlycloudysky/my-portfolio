@@ -78,12 +78,12 @@ module.exports = {
           ],
         },
         {
-          href: 'https://github.com/SandeepKumarYaramchitti/my-portfolio',
+          href: 'https://github.com/SandeepKumarYaramchitti',
           label: 'GitHub',
           position: 'right',
         },
         {
-          href: 'https://github.com/SandeepKumarYaramchitti/my-portfolio',
+          href: 'https://twitter.com/sandeep01957280',
           label: 'Twitter',
           position: 'right',
         },
@@ -118,7 +118,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/SandeepKumarYaramchitti/my-portfolio',
+              href: 'https://github.com/SandeepKumarYaramchitti',
             },
           ],
         },
