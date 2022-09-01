@@ -21,6 +21,7 @@ I am a Software and Cloud Engineer, and passionate about solving meaningful prob
 <a href="#"><img src="https://img.shields.io/badge/DevOps%20-Engineer-white?style=for-the-badge" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Cloud%20-Engineering-white?style=for-the-badge" /></a>
 
+<br />
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SandeepKumarYaramchitti/SandeepKumarYaramchitti/main/images/ProfileImage.gif" width="408" height="300" />
 
